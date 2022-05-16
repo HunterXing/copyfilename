@@ -1,9 +1,10 @@
 {
-  "name": "copyfilename",
+  "name": "CopyFileOrDirName",
 	"displayName": "copy file or directory name",
 	"repository": "copy file or directory name",
 	"description": "https://github.com/HunterXing/copyfilename",
 	"version": "0.0.1",
+	"publisher": "xingheng",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
