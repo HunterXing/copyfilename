@@ -12,7 +12,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:copyname.copy"
+		"onCommand:copyname.copy"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
