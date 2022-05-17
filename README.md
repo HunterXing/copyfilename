@@ -7,4 +7,14 @@ Copy the folder or file name to the clipboard
 
 Right click-copy file or directory name
 
+## keybindings
+mac
+```
+cmd+ctrl+c
+```
+
+windows
+```
+ctrl+win+c
+```
 **Enjoy!**
